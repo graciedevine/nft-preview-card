@@ -1,0 +1,12 @@
+.attribution, .attribution a  {
+  font-size: 15px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(0, 0%, 100%);
+}
+
+.card-body {
+  font-family: "Outfit";
+}
